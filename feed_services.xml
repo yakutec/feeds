@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>example.com Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <link>https://www.example.com/car-1234></link>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+</channel>
