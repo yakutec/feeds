@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>example.com Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>12345678</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+            <metro">Проспект Победы
+                   <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>     
+        </location>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+</channel>
