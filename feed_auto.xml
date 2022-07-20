@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <title>Sample Vehicles Feed</title>
+  <link rel="self" href="https://www.example.com/dealers/cars/1234/?r=vddn" />
+  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+	  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2000000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+      </item>
+</channel>
