@@ -3,7 +3,7 @@
     <title>example.com Feed</title>
     <link rel="self" href="http://www.example.com"/>
     <item>
-        <id>12345678</id>
+        <id>0</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -27,7 +27,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>1</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -51,7 +51,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>2</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -75,7 +75,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>3</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -99,7 +99,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>4</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -123,7 +123,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>5</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -147,7 +147,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>6</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -171,7 +171,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>7</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -195,7 +195,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>8</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -219,7 +219,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>9</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
@@ -243,7 +243,7 @@
         <year_built>2014</year_built>
     </item>
 	  <item>
-        <id>12345678</id>
+        <id>10</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
