@@ -19,8 +19,8 @@
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
-            <vendor>Lg</vendor>
-            <model>Ls-H0561AL</model>
+            <vendor>LG</vendor>
+            <model>LS-H0561AL</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
@@ -35,8 +35,8 @@
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
-            <vendor>Lg</vendor>
-            <model>Ls-H0893</model>
+            <vendor>LG</vendor>
+            <model>LS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
