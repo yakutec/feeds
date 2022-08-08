@@ -10,40 +10,55 @@
     <categories>
         <category id="1" parentId="0">Кондиционеры</category>
         <category id="2" parentId="1">Настенные кондиционеры</category>
+        <category id="3" parentId="0">Бетон</category>
     </categories>
     <offers>
-        <offer id="1" available="true">
-            <url>https://www.example.com/cond/model-ls-h0561al</url>
-            <price>10596</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-ls-h0561al-1.jpeg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0561AL</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
-        <offer id="2" available="true">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0893</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
+        <offer id="2541" type="vendor.model" available="true" bid="80" cbid="90">
+  <url>http://shop.seller.ru/products/10087</url>
+  <price>1200</price>
+  <oldprice>1300</oldprice>
+  <currencyId>RUR</currencyId>
+  <categoryId>2</categoryId>
+  <picture>http://media.seller.ru/shop/20199.jpg</picture>
+  <store>true</store>
+  <pickup>true</pickup>
+  <delivery>true</delivery>
+  <delivery-options>
+    <option cost="300" days="1-3"/>
+  </delivery-options>
+  <typePrefix>Молочная смесь</typePrefix>
+  <vendor>Friso</vendor>
+  <model>Фрисопеп АС (с 12 месяцев) 400 г</model>
+  <description>Cухая смесь для детей с тяжелой пищевой аллергией.</description>
+  <sales_notes>Необходима предоплата.</sales_notes>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <country_of_origin>Нидерланды</country_of_origin>
+  <barcode>384965855962</barcode>
+  <vendorCode>30001049</vendorCode>
+</offer>
+<offer id="2542" type="vendor.model" available="true" bid="80" cbid="90">
+  <url>http://shop.seller.ru/products/10089</url>
+  <price>2200</price>
+  <oldprice>2300</oldprice>
+  <currencyId>RUR</currencyId>
+  <categoryId>3</categoryId>
+  <picture>http://media.seller.ru/shop/20199.jpg</picture>
+  <store>true</store>
+  <pickup>true</pickup>
+  <delivery>true</delivery>
+  <delivery-options>
+    <option cost="300" days="1-3"/>
+  </delivery-options>
+  <typePrefix>Бетонная смесь</typePrefix>
+  <vendor>Областной бетон</vendor>
+  <model>Надежная марка</model>
+  <description>Бетонная смесь, чтобы закатывать людей на дно</description>
+  <sales_notes>Необходима предоплата.</sales_notes>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <country_of_origin>Нидерланды</country_of_origin>
+  <barcode>384965855962</barcode>
+  <vendorCode>30001049</vendorCode>
+</offer>
     </offers>
 </shop>
 </torg_price>
