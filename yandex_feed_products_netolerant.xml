@@ -62,7 +62,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Есенин XS</model>
 <description></description>
@@ -95,7 +95,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Есенин S</model>
 <description></description>
@@ -128,7 +128,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Есенин XL</model>
 <description></description>
@@ -161,7 +161,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Есенин XXL</model>
 <description></description>
@@ -194,7 +194,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Есенин XXXL</model>
 <description></description>
@@ -227,7 +227,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Толстой M</model>
 <description></description>
@@ -258,7 +258,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Свитшот Толстой M</model>
 <description></description>
@@ -287,7 +287,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Свитшот Толстой L</model>
 <description></description>
@@ -316,7 +316,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Атака мертвецов M</model>
 <description>Обновленная модель с классическим кроем и премиум качеством.</description>
@@ -347,7 +347,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Атака мертвецов L</model>
 <description>Обновленная модель с классическим кроем и премиум качеством.</description>
@@ -378,7 +378,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Атака мертвецов XL</model>
 <description>Обновленная модель с классическим кроем и премиум качеством.</description>
@@ -409,7 +409,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Атака мертвецов XXL</model>
 <description>Обновленная модель с классическим кроем и премиум качеством.</description>
@@ -440,7 +440,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT S</model>
 <description></description>
@@ -471,7 +471,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT M</model>
 <description></description>
@@ -502,7 +502,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT L</model>
 <description></description>
@@ -533,7 +533,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT XXL</model>
 <description></description>
@@ -564,7 +564,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT S</model>
 <description></description>
@@ -595,7 +595,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT M</model>
 <description></description>
@@ -626,7 +626,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT XXL</model>
 <description></description>
@@ -657,7 +657,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT S</model>
 <description></description>
@@ -688,7 +688,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT M</model>
 <description></description>
@@ -719,7 +719,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Булгаков XS</model>
 <description></description>
@@ -746,7 +746,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Худи на молнии 3\4 S</model>
 <description>Толстовка с капюшоном из качественного хлопка. Спортивный крой, застежка-молния, эластичные манжеты и удобные боковые карманы. Вышитый логотип на левом рукаве.</description>
@@ -779,7 +779,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Футболка Уличная интеллигенция S</model>
 <description></description>
@@ -806,7 +806,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Самбо XL</model>
 <description></description>
@@ -833,7 +833,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Свитшот Земля отцов S</model>
 <description>Классика возвращается! Хит продаж!</description>
@@ -868,7 +868,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Свитшот Земля отцов M</model>
 <description>Классика возвращается! Хит продаж!</description>
@@ -903,7 +903,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Свитшот Земля отцов XL</model>
 <description>Классика возвращается! Хит продаж!</description>
@@ -938,7 +938,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Свитшот Земля отцов XXL</model>
 <description>Классика возвращается! Хит продаж!</description>
@@ -973,7 +973,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки НВП Тактик 2 M</model>
 <description>Тактические НВП второй генерации, брюки на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1006,7 +1006,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки НВП Тактик 2 L</model>
 <description>Тактические НВП второй генерации, брюки на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1039,7 +1039,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки НВП Тактик 2 XL</model>
 <description>Тактические НВП второй генерации, брюки на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1072,7 +1072,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Сумка поясная Блок борса</model>
 <description></description>
@@ -1091,7 +1091,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Косоворотка 1915 XXL</model>
 <description></description>
@@ -1124,7 +1124,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Косоворотка 1915 XXXL</model>
 <description></description>
@@ -1157,7 +1157,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT M</model>
 <description></description>
@@ -1190,7 +1190,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Hard Times</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Hard Times</vendor>
 
 <model>Штаны Карго HT L</model>
 <description></description>
@@ -1223,7 +1223,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Кепка классическая</model>
 <description></description>
@@ -1246,7 +1246,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Кепка классическая</model>
 <description></description>
@@ -1269,7 +1269,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Кепка классическая НПОГП</model>
 <description></description>
@@ -1292,7 +1292,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джинсы 111 M</model>
 <description>- Плотная хлопковая ткань&amp;nbsp;- Зауженый крой&amp;nbsp;- Средняя посадка&amp;nbsp;- Застежка на молнии с пуговицей&amp;nbsp;- Пять карманов&amp;nbsp;- Жаккардовая бирка с вышитым логотипом&amp;nbsp;-&amp;nbsp;Рефлективный кант на подвороте</description>
@@ -1325,7 +1325,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джинсы 111 L</model>
 <description>- Плотная хлопковая ткань&amp;nbsp;- Зауженый крой&amp;nbsp;- Средняя посадка&amp;nbsp;- Застежка на молнии с пуговицей&amp;nbsp;- Пять карманов&amp;nbsp;- Жаккардовая бирка с вышитым логотипом&amp;nbsp;-&amp;nbsp;Рефлективный кант на подвороте</description>
@@ -1358,7 +1358,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джинсы 111 XL</model>
 <description>- Плотная хлопковая ткань&amp;nbsp;- Зауженый крой&amp;nbsp;- Средняя посадка&amp;nbsp;- Застежка на молнии с пуговицей&amp;nbsp;- Пять карманов&amp;nbsp;- Жаккардовая бирка с вышитым логотипом&amp;nbsp;-&amp;nbsp;Рефлективный кант на подвороте</description>
@@ -1391,7 +1391,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джинсы 111 (stonewash) L</model>
 <description>- Плотная хлопковая ткань&amp;nbsp;- Зауженый крой&amp;nbsp;- Средняя посадка&amp;nbsp;- Застежка на молнии с пуговицей&amp;nbsp;- Пять карманов&amp;nbsp;- Жаккардовая бирка с вышитым логотипом&amp;nbsp;-&amp;nbsp;Рефлективный кант на подвороте</description>
@@ -1424,7 +1424,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джинсы 111 (stonewash) XL</model>
 <description>- Плотная хлопковая ткань&amp;nbsp;- Зауженый крой&amp;nbsp;- Средняя посадка&amp;nbsp;- Застежка на молнии с пуговицей&amp;nbsp;- Пять карманов&amp;nbsp;- Жаккардовая бирка с вышитым логотипом&amp;nbsp;-&amp;nbsp;Рефлективный кант на подвороте</description>
@@ -1457,7 +1457,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП S</model>
 <description>Карго джоггеры Тактические НВП, брюки на манжетах, с системой изменения внутреннего объема штанины, скошенными нашивными боковыми карманами и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1490,7 +1490,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП L</model>
 <description>Карго джоггеры Тактические НВП, брюки на манжетах, с системой изменения внутреннего объема штанины, скошенными нашивными боковыми карманами и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1523,7 +1523,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП XXL</model>
 <description>Карго джоггеры Тактические НВП, брюки на манжетах, с системой изменения внутреннего объема штанины, скошенными нашивными боковыми карманами и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -1556,7 +1556,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Сумка ЧИЗ Стерео</model>
 <description>- Два отделения&amp;nbsp;- Водонепроницаемая молния с рефлективом- Рефлективные вставки&amp;nbsp;</description>
@@ -1575,7 +1575,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Сумка поясная Блок борса</model>
 <description></description>
@@ -1594,7 +1594,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Кости L</model>
 <description></description>
@@ -1625,7 +1625,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Свитшот Кости M</model>
 <description></description>
@@ -1656,7 +1656,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Свитшот Кости L</model>
 <description></description>
@@ -1687,7 +1687,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Свитшот Кости XL</model>
 <description></description>
@@ -1718,7 +1718,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Свитшот Кости XXL</model>
 <description></description>
@@ -1749,7 +1749,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Спираль B L</model>
 <description>- Обновленный силуэт&amp;nbsp;- Лёгкая и прочная ткань&amp;nbsp;- Липы на капюшоне с армированным кантом&amp;nbsp;- Встроенная маска в капюшоне&amp;nbsp;- Два больших накладных кармана&amp;nbsp;- Липы на рукавах- Платформы для патчей- Глухая молния</description>
@@ -1778,7 +1778,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Футболка ГП M</model>
 <description></description>
@@ -1809,7 +1809,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические 111 флис S</model>
 <description>- Утепленная версия- Технологичный материал soft shell- Зауженный крой- Отличная и комфортная посадка- Множество карманов- Утяжки в нижней части штанины</description>
@@ -1844,7 +1844,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические 111 флис L</model>
 <description>- Утепленная версия- Технологичный материал soft shell- Зауженный крой- Отличная и комфортная посадка- Множество карманов- Утяжки в нижней части штанины</description>
@@ -1879,7 +1879,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП 3 S</model>
 <description>Третье поколение одной из топовых моделей тактических джоггеров НВП. Клееные молнии на карманах, утяжки на голени с двух сторон и на карманах сзади. Эластичная вставка на том самом месте для комфорта. Множество карманов и зауженный крой.</description>
@@ -1912,7 +1912,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Гагарин XXL</model>
 <description>Переиздание топовой футболки в luxury исполнении. Классический крой, качество - шелк!</description>
@@ -1943,7 +1943,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Курская дуга S</model>
 <description>Переиздание популярной футболки в классическом исполнении и высоком качестве.</description>
@@ -1974,7 +1974,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Тату-клаб S</model>
 <description>Первая тату, как первая любовь! Сколько не старайся, сколько не выпей водки, сколько не сделай новых, а&amp;nbsp;она не забудется. Дизайн, посвященный первому в Питере и одному из первых в России тату салону, аж 1907 года! Стиль под твоей кожей! История, которую не сотрешь!</description>
@@ -2005,7 +2005,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Чехов S</model>
 <description>Переиздание топовой футболки в luxury исполнении. Классический крой, качество - шелк!</description>
@@ -2036,7 +2036,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Чехов XXL</model>
 <description>Переиздание топовой футболки в luxury исполнении. Классический крой, качество - шелк!</description>
@@ -2067,7 +2067,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Oldfashioned S</model>
 <description></description>
@@ -2098,7 +2098,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Oldfashioned M</model>
 <description></description>
@@ -2129,7 +2129,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) S (164)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2162,7 +2162,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) M (170)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2195,7 +2195,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) M (176)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2228,7 +2228,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) L (182)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2261,7 +2261,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) XL (182)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2294,7 +2294,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Моя оборона S</model>
 <description></description>
@@ -2325,7 +2325,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Моя оборона M</model>
 <description></description>
@@ -2356,7 +2356,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Моя оборона XL</model>
 <description></description>
@@ -2387,7 +2387,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Тактическая ветровка База XL</model>
 <description>- Материал синтетика&amp;nbsp;- Зауженный силуэт&amp;nbsp;- Лёгкая и приятная на ощупь ткань&amp;nbsp;- Большие врезные карманы с усилением&amp;nbsp;- Встроенная маска в капюшоне&amp;nbsp;</description>
@@ -2416,7 +2416,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) S (164)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками. Для тех, кто ценит надежность и долговечность.</description>
@@ -2449,7 +2449,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Курская дуга S</model>
 <description></description>
@@ -2480,7 +2480,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Поясная сумка UNAFFECTED</model>
 <description>- 2 отделения на молниях YKK- Фурнитура из Италии DUE EMME- Светоотражающий логотип</description>
@@ -2505,7 +2505,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Сумка Messenger</model>
 <description>- 2 отделения- Регулируемый брендированный ремень- Светоотражающий логотип</description>
@@ -2530,7 +2530,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Сумка Messenger</model>
 <description>- 2 отделения- Регулируемый брендированный ремень- Светоотражающий логотип</description>
@@ -2555,7 +2555,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки тактические НВП 111 S</model>
 <description>- Новый крой&amp;nbsp;- Отличная и комфортная посадка&amp;nbsp;- Вместительные карманы&amp;nbsp;- Эластичные вставки в поясе- Утяжки на икрах&amp;nbsp;- Рефлективные элементы</description>
@@ -2586,7 +2586,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки тактические НВП 111 XXL</model>
 <description>- Новый крой&amp;nbsp;- Отличная и комфортная посадка&amp;nbsp;- Вместительные карманы&amp;nbsp;- Эластичные вставки в поясе- Утяжки на икрах&amp;nbsp;- Рефлективные элементы</description>
@@ -2617,7 +2617,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Волх Всеславьевич XXL</model>
 <description></description>
@@ -2648,7 +2648,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Залив змей S</model>
 <description></description>
@@ -2679,7 +2679,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Маяковский.Натe XXL</model>
 <description></description>
@@ -2710,7 +2710,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Сумка поясная Странник</model>
 <description></description>
@@ -2737,7 +2737,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Сумка поясная Странник</model>
 <description></description>
@@ -2764,7 +2764,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго Sfagnum M (170)</model>
 <description>Инфракрасная ремиссия - отделка, придающая свойство ткани поглощать инфракрасные лучи. Такое снаряжение дает возможность быть менее заметным в приборах ночного видения.МО &amp;ndash; мягкая отделка &amp;ndash; ткани с мягкой отделкой обладают особым свойством &amp;ndash; улучшенным грифом. Кроме того, они сохраняют все параметры, присущие тканям с малоусадочной отделкой, благодаря которой изменение размеров ткани после мокрой обработки по основе и утку не превышает 3%.</description>
@@ -2797,7 +2797,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго Sfagnum M (176)</model>
 <description>Инфракрасная ремиссия - отделка, придающая свойство ткани поглощать инфракрасные лучи. Такое снаряжение дает возможность быть менее заметным в приборах ночного видения.МО &amp;ndash; мягкая отделка &amp;ndash; ткани с мягкой отделкой обладают особым свойством &amp;ndash; улучшенным грифом. Кроме того, они сохраняют все параметры, присущие тканям с малоусадочной отделкой, благодаря которой изменение размеров ткани после мокрой обработки по основе и утку не превышает 3%.</description>
@@ -2830,7 +2830,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Змеиный удар XL</model>
 <description>Толстовка &amp;laquo;Змеиный удар&amp;raquo; в чёрном цвете. Совместная коллекция &amp;laquo;Свинцовый Выстрел&amp;raquo; с художником из Санкт-Петербурга &amp;ndash; Ostem.</description>
@@ -2861,7 +2861,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры Тактик 2 + M</model>
 <description>Тактические НВП второй генерации, джоггеры на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -2896,7 +2896,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры Тактик 2 + L</model>
 <description>Тактические НВП второй генерации, джоггеры на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -2931,7 +2931,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры Тактик 2 + XL</model>
 <description>Тактические НВП второй генерации, джоггеры на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -2966,7 +2966,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры Тактик 2 + XXL</model>
 <description>Тактические НВП второй генерации, джоггеры на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -3001,7 +3001,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Молоты и наковальня S</model>
 <description></description>
@@ -3034,7 +3034,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>MEZR</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>MEZR</vendor>
 
 <model>Пуховик Down Town S</model>
 <description>Теплый, комфортный и функциональный пуховик.&amp;nbsp;- Встроенная маска- Ветрозащитная планка на магнитах- Сдвоенный боковой карман- Внутренние карманыУтеплитель Био-пух легкий и практичный. Желтая фирменная стропа для переноски пуховика за спиной.&amp;nbsp;Температурный режим: от - 5 до - 25.</description>
@@ -3069,7 +3069,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Солнце за нас 2 XL</model>
 <description></description>
@@ -3102,7 +3102,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Свитер НПОГП S</model>
 <description>Вязанный свитер с рефлективными элементами на рукавах. Для ценителей стиля НПОГП!</description>
@@ -3131,7 +3131,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Свитер НПОГП L</model>
 <description>Вязанный свитер с рефлективными элементами на рукавах. Для ценителей стиля НПОГП!</description>
@@ -3160,7 +3160,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Свитер НПОГП S</model>
 <description>Вязанный свитер с рефлективными элементами на рукавах. Для ценителей стиля НПОГП!</description>
@@ -3189,7 +3189,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Толстовка НПОГП M</model>
 <description>Светоотражающие элементы на рукавах.</description>
@@ -3222,7 +3222,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Брюки карго (Рипстоп) S (170)</model>
 <description>Классическая модель популярных карго брюк из рипстопа с улучшенными характеристиками в новом цвете. Для тех, кто ценит надежность и долговечность.</description>
@@ -3255,7 +3255,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП + L</model>
 <description>Карго джоггеры Тактические НВП, брюки на манжетах, с системой изменения внутреннего объема штанины, скошенными нашивными боковыми карманами и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -3288,7 +3288,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Кошелек Unaffected</model>
 <description>Имеет 2 основных отдела, 2 скрытых отдела с магнитами и 2 отверстия для карт.</description>
@@ -3313,7 +3313,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Кошелек Unaffected</model>
 <description>Имеет 2 основных отдела, 2 скрытых отдела с магнитами и 2 отверстия для карт.</description>
@@ -3338,7 +3338,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Поясная сумка UNAFFECTED</model>
 <description>- Основной отсек на молнии YKK- Дополнительный отсек на молнии YKK-Светоотражающий логотип бренда</description>
@@ -3363,7 +3363,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>UNAFFECTED</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>UNAFFECTED</vendor>
 
 <model>Поясная сумка UNAFFECTED</model>
 <description>- Основной отсек на молнии YKK- Дополнительный отсек на молнии YKK-Светоотражающий логотип бренда</description>
@@ -3388,7 +3388,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>No Tolerance</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>No Tolerance</vendor>
 
 <model>Футболка От отца к сыну S</model>
 <description></description>
@@ -3421,7 +3421,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>No Tolerance</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>No Tolerance</vendor>
 
 <model>Футболка От отца к сыну M</model>
 <description></description>
@@ -3454,7 +3454,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Буран-У S</model>
 <description>- Весна-лето- Облегченная ветровка- Утяжки в капюшоне- Встроенная маска в капюшоне- Два прорезных кармана на молнии- Водоотталкивающая обработка DWRСветоотражающий принт!</description>
@@ -3483,7 +3483,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Поло Лого L</model>
 <description></description>
@@ -3512,7 +3512,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Поло Лого XXL</model>
 <description></description>
@@ -3541,7 +3541,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Контроль S</model>
 <description>Чёрное худи классического кроя.&amp;nbsp;На груди расположен принт &amp;ndash; стилизованный под колючую проволоку логотип бренда.</description>
@@ -3570,7 +3570,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Контроль M</model>
 <description>Чёрное худи классического кроя.&amp;nbsp;На груди расположен принт &amp;ndash; стилизованный под колючую проволоку логотип бренда.</description>
@@ -3599,7 +3599,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Контроль L</model>
 <description>Чёрное худи классического кроя.&amp;nbsp;На груди расположен принт &amp;ndash; стилизованный под колючую проволоку логотип бренда.</description>
@@ -3628,7 +3628,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Контроль XL</model>
 <description>Чёрное худи классического кроя.&amp;nbsp;На груди расположен принт &amp;ndash; стилизованный под колючую проволоку логотип бренда.</description>
@@ -3657,7 +3657,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Контроль XXL</model>
 <description>Чёрное худи классического кроя.&amp;nbsp;На груди расположен принт &amp;ndash; стилизованный под колючую проволоку логотип бренда.</description>
@@ -3686,7 +3686,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Сумка поясная НПО</model>
 <description>- Одно отделение&amp;nbsp;- Водонепроницаемая молния&amp;nbsp;- Рефлективные вставки</description>
@@ -3709,7 +3709,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Visual Vandal S</model>
 <description>- Утяжки в капюшоне- Встроенная маска в капюшоне- Большой карман на животе- Платформы для патчей- Два врезных кармана- Вышивка на руковах</description>
@@ -3738,7 +3738,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Visual Vandal L</model>
 <description>- Утяжки в капюшоне- Встроенная маска в капюшоне- Большой карман на животе- Платформы для патчей- Два врезных кармана- Вышивка на руковах</description>
@@ -3767,7 +3767,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Visual Vandal S</model>
 <description>Анорак Вандал без утеплителя.Встроенная маска, скошенный нагрудный карман как у Тактических НВП.&amp;nbsp;2 платформы под патчи и командные знаки различия. Принт на груди. Рефлективные элементы.</description>
@@ -3800,7 +3800,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Анорак Спираль В XL</model>
 <description>- Обновленный силуэт&amp;nbsp;- Лёгкая и прочная ткань&amp;nbsp;- Липы на капюшоне с армированным кантом&amp;nbsp;- Встроенная маска в капюшоне&amp;nbsp;- Два больших накладных кармана&amp;nbsp;- Липы на рукавах- Платформы для патчей- Глухая молния</description>
@@ -3831,7 +3831,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джемпер НПОГП XL</model>
 <description>Лёгкий джемпер.</description>
@@ -3860,7 +3860,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП XXXL</model>
 <description>Карго джоггеры Тактические НВП, брюки на манжетах, с системой изменения внутреннего объема штанины, скошенными нашивными боковыми карманами и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -3893,7 +3893,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Джоггеры тактические НВП 3 + S</model>
 <description>Третье поколение одной из топовых моделей тактических джоггеров НВП. Клееные молнии на карманах, утяжки на голени с двух сторон и на карманах сзади. Эластичная вставка на том самом месте для комфорта. Множество карманов и зауженный крой.</description>
@@ -3926,7 +3926,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Футболка НПОГП S</model>
 <description>Для тех, кто любит посвободнее - футболка очень большого кроя!</description>
@@ -3959,7 +3959,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>2316</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>2316</vendor>
 
 <model>Сумка поясная Термохром Синий</model>
 <description>Сумка меняет цвет от воздействия на нее тепла, принимая оригинальный окрас. 2 отделения.</description>
@@ -3986,7 +3986,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>2316</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>2316</vendor>
 
 <model>Сумка поясная Термохром Зеленый</model>
 <description>Сумка меняет цвет от воздействия на нее тепла, принимая оригинальный окрас. 2 отделения.</description>
@@ -4013,7 +4013,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>2316</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>2316</vendor>
 
 <model>Сумка поясная Термохром Желтый</model>
 <description>Сумка меняет цвет от воздействия на нее тепла, принимая оригинальный окрас. 2 отделения.</description>
@@ -4040,7 +4040,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>2316</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>2316</vendor>
 
 <model>Сумка поясная Термохром Белый</model>
 <description>Сумка меняет цвет от воздействия на нее тепла, принимая оригинальный окрас. 2 отделения.</description>
@@ -4067,7 +4067,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Солнце за нас 2 L</model>
 <description></description>
@@ -4100,7 +4100,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Кошелек Касса</model>
 <description>Кошелек в цвете камо, выполнен из сверхпрочного полиэстера Ripstop. Обладает складной конструкцией и застегивается на липучку. Внутри расположены отделение для купюр, слоты для пластиковых карт и прозрачное отделение для ID. Также имеется большой карман на молнии. Дополнением служит кольцо для ключей или карабина. Кошелек украшен жаккардовой нашивной фирменного логотипа бренда.</description>
@@ -4123,7 +4123,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Никто M</model>
 <description></description>
@@ -4156,7 +4156,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Никто XL</model>
 <description></description>
@@ -4189,7 +4189,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Mother Russia</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Mother Russia</vendor>
 
 <model>Футболка Никто XXL</model>
 <description></description>
@@ -4222,7 +4222,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Оптический S</model>
 <description></description>
@@ -4255,7 +4255,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Оптический M</model>
 <description></description>
@@ -4288,7 +4288,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Оптический L</model>
 <description></description>
@@ -4321,7 +4321,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Предания вороньей горы L</model>
 <description>Принт со светоотражающим эффектом!</description>
@@ -4354,7 +4354,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Предания вороньей горы XXL</model>
 <description>Принт со светоотражающим эффектом!</description>
@@ -4387,7 +4387,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Варгградъ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Варгградъ</vendor>
 
 <model>Футболка Предания вороньей горы XXXL</model>
 <description>Принт со светоотражающим эффектом!</description>
@@ -4420,7 +4420,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Жаккард Лого S</model>
 <description>Чёрная футболка классического кроя выполнена из ткани на основе натурального хлопка. Спереди расположен логотип бренда выполненный жаккардовым плетением.</description>
@@ -4451,7 +4451,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Жаккард Лого M</model>
 <description>Чёрная футболка классического кроя выполнена из ткани на основе натурального хлопка. Спереди расположен логотип бренда выполненный жаккардовым плетением.</description>
@@ -4482,7 +4482,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Жаккард Лого L</model>
 <description>Чёрная футболка классического кроя выполнена из ткани на основе натурального хлопка. Спереди расположен логотип бренда выполненный жаккардовым плетением.</description>
@@ -4513,7 +4513,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Жаккард Лого XL</model>
 <description>Чёрная футболка классического кроя выполнена из ткани на основе натурального хлопка. Спереди расположен логотип бренда выполненный жаккардовым плетением.</description>
@@ -4544,7 +4544,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Рюкзак Контейнер</model>
 <description>Классический рюкзак выполнен из легкого но прочного чёрного рипстоп материала, который защитит вещи от непогоды. Низ изделия выполнен из износостойкого материала Cordura, благодаря которому забудете о том, что такое истираемое дно. Рюкзак оснащен молниями YKK и фурнитурой Duraflex. В основное отделение поместится папка документов, личные вещи, а в специальное изолированное отделение &amp;ndash; ноутбук. Для мелких предметов и бутылок с водой предусмотрены два боковых и один накладной карман украшенный фирменной жаккардовой нашивкой.&amp;nbsp;</description>
@@ -4569,7 +4569,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Свитшот Vigrid Division S</model>
 <description>VIGRID DIVISION - это дух несгибаемости, желание идти вопреки! Словно острый клинок викинга, рассекающий латный доспех врага, мы идем вперед без оглядки назад, чтобы каждый день, работая над собой, становиться лучше, чем были вчера.</description>
@@ -4598,7 +4598,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Свитшот Vigrid Division L</model>
 <description>VIGRID DIVISION - это дух несгибаемости, желание идти вопреки! Словно острый клинок викинга, рассекающий латный доспех врага, мы идем вперед без оглядки назад, чтобы каждый день, работая над собой, становиться лучше, чем были вчера.</description>
@@ -4627,7 +4627,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Свитшот Vigrid Division XXL</model>
 <description>VIGRID DIVISION - это дух несгибаемости, желание идти вопреки! Словно острый клинок викинга, рассекающий латный доспех врага, мы идем вперед без оглядки назад, чтобы каждый день, работая над собой, становиться лучше, чем были вчера.</description>
@@ -4656,7 +4656,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Худи Vigrid Division M</model>
 <description>Классическая толстовка с капюшоном, для прохладных дней. На груди размещен брендинг VIGRID DIVISION.</description>
@@ -4685,7 +4685,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Штаны Тактик M</model>
 <description>На штанах установлены дополнительные утяжки на стропах, создающие комфортную посадку вне зависимости от телосложения.2 утяжки на стропах установлены внизу штанины, 1 утяжка на стропах установлена под коленом чтобы была возможность заузить штаны на свой вкус.</description>
@@ -4716,7 +4716,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Штаны Тактик L</model>
 <description>На штанах установлены дополнительные утяжки на стропах, создающие комфортную посадку вне зависимости от телосложения.2 утяжки на стропах установлены внизу штанины, 1 утяжка на стропах установлена под коленом чтобы была возможность заузить штаны на свой вкус.</description>
@@ -4747,7 +4747,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Штаны Тактик XL</model>
 <description>На штанах установлены дополнительные утяжки на стропах, создающие комфортную посадку вне зависимости от телосложения.2 утяжки на стропах установлены внизу штанины, 1 утяжка на стропах установлена под коленом чтобы была возможность заузить штаны на свой вкус.</description>
@@ -4778,7 +4778,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Штаны Тактик XXL</model>
 <description>На штанах установлены дополнительные утяжки на стропах, создающие комфортную посадку вне зависимости от телосложения.2 утяжки на стропах установлены внизу штанины, 1 утяжка на стропах установлена под коленом чтобы была возможность заузить штаны на свой вкус.</description>
@@ -4809,7 +4809,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Vigrid Division</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Vigrid Division</vendor>
 
 <model>Штаны карго с манжетами XL</model>
 <description>Штаны выполнены из современной ткани РИП СТОП, которая почти не подвергается истиранию и выцветанию. Изнутри штаны утеплены мягким флисом, который не будет создавать дискомфорт при носке, а только добавит комфорта в зимнюю стужу.&amp;nbsp;</description>
@@ -4844,7 +4844,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Брюки Тактик 2 + (флис) M</model>
 <description>Тактические НВП второй генерации, брюки на манжетах, с системой изменения внутреннего объема штанины с обеих сторон, скошенными нашивными боковыми карманами спереди и сзади, трикотажной ластовицей и шлевкой на манжетах облегчающих съем изделия.</description>
@@ -4881,7 +4881,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>НПОГП</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>НПОГП</vendor>
 
 <model>Штаны Стандарт L</model>
 <description>Оверсайз штаны, прямого кроя с 2 накладными карманами на утяжках, так же утяжки установлены в нижней части штанины. Всем свободный стиль!</description>
@@ -4910,7 +4910,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Дёрти M</model>
 <description>Благодаря свободному силуэту в модели будет комфортно в течение всего дня. На груди напечатан белый принт стилизованный под граффити тег нанесенный аэрозольной краской. Футболка украшена силиконовой нашивкой коллаборации с художником EASYSTYLE.</description>
@@ -4941,7 +4941,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Футболка Дёрти XL</model>
 <description>Благодаря свободному силуэту в модели будет комфортно в течение всего дня. На груди напечатан белый принт стилизованный под граффити тег нанесенный аэрозольной краской. Футболка украшена силиконовой нашивкой коллаборации с художником EASYSTYLE.</description>
@@ -4972,7 +4972,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Негатив S</model>
 <description>Худи оверсайз посадки имеет спущенноую линию плеч и выполнено из облегченного футера на основе хлопка. Дизайн кофты вдохновлен пленочными кадрами и граффити. На изделии расположен жаккард коллаборации с фотографом ShootYourStyle.</description>
@@ -5001,7 +5001,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Негатив M</model>
 <description>Худи оверсайз посадки имеет спущенноую линию плеч и выполнено из облегченного футера на основе хлопка. Дизайн кофты вдохновлен пленочными кадрами и граффити. На изделии расположен жаккард коллаборации с фотографом ShootYourStyle.</description>
@@ -5030,7 +5030,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Негатив L</model>
 <description>Худи оверсайз посадки имеет спущенноую линию плеч и выполнено из облегченного футера на основе хлопка. Дизайн кофты вдохновлен пленочными кадрами и граффити. На изделии расположен жаккард коллаборации с фотографом ShootYourStyle.</description>
@@ -5059,7 +5059,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Негатив XL</model>
 <description>Худи оверсайз посадки имеет спущенноую линию плеч и выполнено из облегченного футера на основе хлопка. Дизайн кофты вдохновлен пленочными кадрами и граффити. На изделии расположен жаккард коллаборации с фотографом ShootYourStyle.</description>
@@ -5088,7 +5088,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Инкогнито M</model>
 <description>Худи оверсайз из футера высокого качества в чёрном цвете. За счет свободного кроя и спущенной линии плеч изделие не сковывает движения. Капюшон на подкладке, спереди карман-кенгуру.</description>
@@ -5121,7 +5121,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Блок S</model>
 <description>Описание товара блок</description>
@@ -5152,7 +5152,7 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 
 <model>Худи Блок L</model>
 <description></description>
@@ -5183,24 +5183,15 @@
 <store>true</store>
 <pickup>true</pickup>
 <delivery>true</delivery>
-<vendor>Питерский ЩИТ</vendor>
-
+<typePrefix>Майка typePrefix</typePrefix><vendor>Питерский ЩИТ</vendor>
 <model>Худи Блок XL</model>
 <description>Описание товара</description>
-
-
 <manufacturer_warranty>true</manufacturer_warranty>
-
         <param name='Материал'>70% Хлопок 30% Полиэстер</param>
-        
         <param name='Производство'>Россия</param>
-        
         <param name='Название варианта'>размер</param>
-        
         <param name='Цвет'>Черный</param>
-        
         <param name='Ткань'>Футер без начеса</param>
-        
         <param name="Размер" unit="INT">XL</param>
         </offer></offers>
 </shop>
